@@ -1,6 +1,6 @@
 # Recruitment Platform
 
-Plateforme de recrutement avec un **frontend** (React) et un **backend** (Spring Boot).
+Plateforme de recrutement avec un frontend développé en React et un backend en Node.js.
 
 ## Dépôts
 
